@@ -1,6 +1,8 @@
 🖥️ Admin Dashboard
 This project was built as part of The Odin Project curriculum to practice using CSS Grid. The entire layout of the admin dashboard is structured with grid, including sidebar, header, main content area, and footer.
 
+https://iamangina.github.io/Admin-Dashboard-OdinProject/
+
 In addition to CSS Grid, I used other techniques learned in earlier sections of the course, such as:
 
 • flexbox for layout alignment
